@@ -9,3 +9,9 @@ These are my programming practices and summaries ordered by languages.
 > 
 >  * ⚙️ [generator functions](JS/generatorFunc.js) (`function* () {}`)
 >
+---
+
+> ## SOLC
+> 
+>  * 🦾 [gas used with a basic assembly](SOLC/contracts/assembly-practices-01.sol) (`assembly {}`)
+> `> npm run test-pow`

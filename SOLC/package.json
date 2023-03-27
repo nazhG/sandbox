@@ -1,0 +1,12 @@
+{
+  "name": "sandbox",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test-pow": "hardhat test ./test/pow.test.ts"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0",
+    "hardhat-gas-reporter": "^1.0.9"
+  }
+}
