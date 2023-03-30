@@ -9,6 +9,9 @@ These are my programming practices and summaries ordered by languages.
 > 
 >  * ⚙️ [generator functions](JS/generatorFunc.js) (`function* () {}`)
 >
+> 
+>  * ▶️ [really simple youtube scrap](JS/youtube.js)
+>
 ---
 
 > ## SOLC
