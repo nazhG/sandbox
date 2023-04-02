@@ -24,3 +24,5 @@ These are my programming practices and summaries ordered by languages.
 > 
 >  * 🖱️ [hover effect](CSS/hover-light/index.html) 
 >
+>  * 👾 [simple animation](CSS/background-keyframes/index.html) 
+>
